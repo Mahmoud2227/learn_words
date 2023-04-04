@@ -7,9 +7,9 @@ Your Road to learn new language
 ## Technologies
 Libraries/Languages: Python, Django, HTML, CSS, JavaScript,
 Platforms: Web
-Frameworks: Django
+Frameworks: Flask
 Hardware: None required
-Books/Resources: Django documentation, Python documentation
+Books/Resources: Flask documentation, Python documentation
 
 For Django, another option will be to use Flask.
 But Django comes with many more default features than Flask. For this project we don't have much time. Django will allow us to go faster.
